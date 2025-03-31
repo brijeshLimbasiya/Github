@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Shree/Desktop/c++/PATTERN/PROJECT",
-      "program": "c:/Users/Shree/Desktop/c++/PATTERN/PROJECT/build/Debug/outDebug",
+      "cwd": "c:/Users/Shree/Desktop/c++/ARRAY/PROJACT",
+      "program": "c:/Users/Shree/Desktop/c++/ARRAY/PROJACT/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
